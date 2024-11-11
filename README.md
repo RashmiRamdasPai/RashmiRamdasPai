@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RashmiRamdasPai
 - 👀 I’m interested in Coding,Development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Girl Script of summer Code.
+- 🌱 I’m currently learning Java and C language.
 - 📫 How to reach me my email:rrpai2005@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love watching serials.
