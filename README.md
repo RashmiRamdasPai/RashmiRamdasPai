@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RashmiRamdasPai
-- 👀 I’m interested in Coding,Development.
+- 👀 I’m interested in Coding,Full-Stack Web Development.
 - 🌱 I’m currently learning Java,C languages and backend.
 - 📫 How to reach me my email:rrpai2005@gmail.com
 - 😄 Pronouns: She
